@@ -5,7 +5,8 @@ The project demonstrates practical skills in data cleaning, dashboard design, bu
 # Tools Used
 - Power BI
 - DAX
-- Power Query
+- Data cleaning
+- Data visualization
 - Excel
 
 ---
@@ -20,7 +21,7 @@ The project demonstrates practical skills in data cleaning, dashboard design, bu
 
 # Insights Generated
 - Urban development trends
-- Infrastructure performance analysis
+- Metro use analysis
 - Area-wise comparisons
 
 ---
